@@ -45,3 +45,9 @@
     font-size: 1.5rem;
   }
 }
+
+@media (max-width: 400px) {
+  .footer-contact .footer-email {
+    font-size: 1rem;
+  }
+}
