@@ -24,6 +24,8 @@
 
 .footer-contact li a {
   color: #fff;
+  text-decoration: underline;
+  text-decoration-color: #3300a1;
 }
 
 .footer-copyright {

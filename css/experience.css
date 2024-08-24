@@ -30,7 +30,7 @@
   display: block;
   width: 4px;
   height: 20px;
-  background: linear-gradient(#b6f829, #67dd0a);
+  background: linear-gradient(#5a33ad, #3300a1);
   position: absolute;
   top: 20px;
   left: -4px;
@@ -71,6 +71,12 @@
   border-radius: 4px;
   background: #fff;
   padding: 5px 10px;
+  border: 2px solid transparent;
+  border-radius: 4px;
+}
+
+.enterprise-skills li:hover {
+  border-color: #3300a1;
 }
 
 /* Media Queries */
